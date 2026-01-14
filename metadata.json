@@ -1,0 +1,8 @@
+{
+  "name": "WinPortfolio OS",
+  "description": "A Windows 10/8 inspired interactive portfolio with a desktop environment, taskbar, and AI-powered assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
